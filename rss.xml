@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Graph Technologies]]></title>
-        <description><![CDATA[Graph Technologies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Machine learning consulting]]></title>
+        <description><![CDATA[Machine learning consulting]]></description>
+        <link>https://thegrid.ai/graph-technologies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 16:44:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 16:54:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/graph-technologies/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>WHO WE ARE /</p>]]></description>
-            <link>undefined95988e8f-2cc0-4e9c-b195-242ed50c1089/index.html</link>
+            <description><![CDATA[<p>We are a consultancy firm, specialised in machine learning and graph technologies. As the web is growing ever more interconnected, graphs are a great way to deal with a variety of technical challenges. As the needs of data is becoming also more diverse, machine learning techniques as Deep Learning can make sense of it all.</p>]]></description>
+            <link>https://thegrid.ai/graph-technologies/95988e8f-2cc0-4e9c-b195-242ed50c1089/index.html</link>
             <guid isPermaLink="false">95988e8f-2cc0-4e9c-b195-242ed50c1089</guid>
-            <pubDate>Sat, 09 Apr 2016 16:43:56 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 16:54:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
