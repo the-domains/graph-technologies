@@ -4,8 +4,15 @@
         <description><![CDATA[Machine learning consulting]]></description>
         <link>https://thegrid.ai/graph-technologies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 16:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 16:54:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graph-technologies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e33caa4f-a2cb-4e24-a8da-40533a6882b8.png">]]></description>
+            <link>https://thegrid.ai/graph-technologies/b76e76ad-5c22-4082-8504-9610a53da4e7/index.html</link>
+            <guid isPermaLink="false">b76e76ad-5c22-4082-8504-9610a53da4e7</guid>
+            <pubDate>Sat, 09 Apr 2016 16:54:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We are a consultancy firm, specialised in machine learning and graph technologies. As the web is growing ever more interconnected, graphs are a great way to deal with a variety of technical challenges. As the needs of data is becoming also more diverse, machine learning techniques as Deep Learning can make sense of it all.</p>]]></description>
